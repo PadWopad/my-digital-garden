@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:59:56 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/css-overview?hl=ru
-author: Jecelyn Yeen
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/css-overview/"}
 ---
+
 
 # Обзор CSS: определение потенциальных улучшений CSS  |  Chrome DevTools  |  Chrome for Developers
 

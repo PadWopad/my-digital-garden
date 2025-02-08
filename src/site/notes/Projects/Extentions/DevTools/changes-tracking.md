@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:58:10 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/changes?hl=en
-author: Sofia Emelianova
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/changes-tracking/"}
 ---
+
 
 # Changes: Track HTML, CSS and JavaScript Changes  |  Chrome DevTools  |  Chrome for Developers
 

@@ -5,6 +5,9 @@
 
 ## Учебный курс "Создание расширений для Chrome без кода: от идеи до публикации"
 
+![](/img/user/Resources/Pasted image 20250208162126.png)
+
+
 [[Projects/Extentions/__Chrome Extensions - Index\|Руководство по документации для разработки расширений Chrome]]
 
 [[Projects/Extentions/DevTools/_Chrome DevTools - Index\|Chrome DevTools Documentation]]

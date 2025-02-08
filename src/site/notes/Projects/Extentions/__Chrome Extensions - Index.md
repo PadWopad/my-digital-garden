@@ -12,7 +12,7 @@
 
 ## 1. Базовые руководства для начинающих
 - Как сделать расширение для Google Chrome за 10 мин  [[Projects/Extentions/Make extention - 10 min\|Make extention - 10 min]]
-- Как сделать расширение для Google Chrome за 5 минут  [[Projects/Extentions/Rasshirenie google chrome za 5 min\|Rasshirenie google chrome za 5 min]]
+- Как сделать расширение для Google Chrome за 5 минут  [[Projects/Extentions/Extention Google Chrome in 5 min\|Extention Google Chrome in 5 min]]
 
 ## 2. Основная техническая документация
 - [Формат файла манифеста](https://developer.chrome.com/docs/extensions/reference/manifest?hl=ru) - описание обязательного файла manifest.json

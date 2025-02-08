@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:55:55 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/shortcuts?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/keyboard-shortcuts/"}
 ---
+
 
 # Горячие клавиши  |  Chrome DevTools  |  Chrome for Developers
 

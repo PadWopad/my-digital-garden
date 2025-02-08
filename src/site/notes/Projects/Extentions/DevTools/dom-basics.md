@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:56:18 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/dom?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/dom-basics/"}
 ---
+
 
 # Начало работы с просмотром и изменением DOM  |  Chrome DevTools  |  Chrome for Developers
 

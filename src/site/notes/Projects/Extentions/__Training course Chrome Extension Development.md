@@ -5,7 +5,11 @@
 
 ## Учебный курс "Создание расширений для Chrome без кода: от идеи до публикации"
 
+
+
 ![enhanzed.com/wp-content/uploads/2022/08/benefits_of_classes_during_lockdown.png](https://enhanzed.com/wp-content/uploads/2022/08/benefits_of_classes_during_lockdown.png)
+
+
 
 
 [[Projects/Extentions/__Chrome Extensions - Index\|Руководство по документации для разработки расширений Chrome]]

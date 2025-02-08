@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:58:05 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/css/animations?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/animations-debugging-css-effects/"}
 ---
+
 
 # Анимации: проверка и изменение эффектов анимации CSS.  |  Chrome DevTools  |  Chrome for Developers
 

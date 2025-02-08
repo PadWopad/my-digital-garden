@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:56:26 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/css?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/css-editing/"}
 ---
+
 
 # Просмотр и изменение CSS  |  Chrome DevTools  |  Chrome for Developers
 

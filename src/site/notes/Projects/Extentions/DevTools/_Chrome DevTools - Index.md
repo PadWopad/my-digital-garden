@@ -30,90 +30,90 @@
   > Анализ используемых цветов, шрифтов, медиа-запросов и неиспользуемых объявлений CSS на странице.
 
 ### Отладка и производительность
-- [Консоль](console-overview.md)
+- [[Projects/Extentions/DevTools/console-overview\|Консоль]]
   > Использование консоли для логирования, выполнения JavaScript и взаимодействия со страницей. Включает API консоли и утилиты отладки.
 
-- [Источники](sources-panel.md)
+- [[Projects/Extentions/DevTools/sources-panel\|Источники]]
   > Отладка JavaScript с использованием брейкпоинтов, просмотр стека вызовов, работа с исходным кодом и сопоставление с source maps.
 
-- [Быстрый исходный код](quick-source-panel.md)
+- [[Projects/Extentions/DevTools/quick-source-panel\|Быстрый исходный код]]
   > Быстрый доступ к просмотру и редактированию исходных файлов без переключения контекста с других панелей.
 
-- [Отключение JavaScript](disable-javascript.md)
+- [[Projects/Extentions/DevTools/disable-javascript\|Отключение JavaScript]]
   > Как временно отключить JavaScript для тестирования поведения страницы без JS и проверки прогрессивного улучшения.
 
 ### Сеть и безопасность
-- [Сетевая панель](network-panel.md)
+- [[Projects/Extentions/DevTools/network-panel\|Сетевая панель]]
   > Анализ сетевых запросов, времени загрузки, заголовков и содержимого. Включает фильтрацию, сортировку и экспорт данных.
 
-- [Блокировка запросов](network-requests.md)
+- [[Projects/Extentions/DevTools/network-requests\|Блокировка запросов]]
   > Блокировка определенных сетевых запросов для тестирования поведения сайта при недоступности ресурсов.
 
-- [Безопасность](security-understanding-issues.md)
+- [[Projects/Extentions/DevTools/security-understanding-issues\|Безопасность]]
   > Проверка безопасности сайта, включая HTTPS, сертификаты и смешанный контент.
 
-- [Условия сети](network-conditions.md)
+- [[Projects/Extentions/DevTools/network-conditions\|Условия сети]]
   > Эмуляция различных сетевых условий и устройств, изменение User Agent и другие сетевые настройки.
 
 ### Производительность и память
-- [Производительность](performance-panel.md)
+- [[Projects/Extentions/DevTools/performance-panel\|Производительность]]
   > Запись и анализ производительности страницы, включая рендеринг, JavaScript выполнение и использование памяти.
 
-- [Монитор производительности](performance-monitor.md)
+- [[Projects/Extentions/DevTools/performance-monitor\|Монитор производительности]]
   > Мониторинг производительности в реальном времени, включая CPU, FPS и количество DOM узлов.
 
-- [Статистика производительности](performance-insights.md)
+- [[Projects/Extentions/DevTools/performance-insights\|Статистика производительности]]
   > Анализ производительности на основе конкретных сценариев использования, с рекомендациями по улучшению.
 
-- [Память](memory-panel.md)
+- [[Projects/Extentions/DevTools/memory-panel\|Память]]
   > Профилирование памяти, поиск утечек и анализ использования heap.
 
-- [Инспектор памяти](memory-inspector.md)
+- [[Projects/Extentions/DevTools/memory-inspector\|Инспектор памяти]]
   > Просмотр и анализ ArrayBuffer, TypedArray и WebAssembly память.
 
-- [Покрытие кода](coverage.md)
+- [[Projects/Extentions/DevTools/coverage\|Покрытие кода]]
   > Анализ неиспользуемого JavaScript и CSS кода для оптимизации размера бандла.
 
 ## Дополнительные инструменты
-- [Lighthouse](lighthouse.md)
+- [[Projects/Extentions/DevTools/lighthouse\|Lighthouse]]
   > Автоматизированный аудит производительности, доступности, PWA, SEO и лучших практик.
 
-- [Рекордер](recorder-panel.md)
+- [[Projects/Extentions/DevTools/recorder-panel\|Рекордер]]
   > Запись и воспроизведение пользовательских действий для тестирования и измерения производительности.
 
-- [WebAudio](web-audio.md)
+- [[Projects/Extentions/DevTools/web-audio\|WebAudio]]
   > Просмотр и отладка Web Audio API, включая аудио контекст, частоту дискретизации и другие параметры.
 
-- [WebAuthn](web-authn.md)
+- [[Projects/Extentions/DevTools/web-authn\|WebAuthn]]
   > Эмуляция аутентификаторов для тестирования WebAuthn функциональности.
 
-- [Автозаполнение](autofill-debugging-saved-addresses.md)
+- [[Projects/Extentions/DevTools/autofill-debugging-saved-addresses\|Автозаполнение]]
   > Проверка и отладка функциональности автозаполнения форм, включая адреса и другие данные.
 
-- [PWA отладка](pwa-debugging.md)
+- [[Projects/Extentions/DevTools/pwa-debugging\|PWA отладка]]
   > Инструменты для отладки Service Workers, манифестов и других компонентов PWA.
 
 ## Настройки и конфигурация
-- [Общие настройки](settings-overview.md)
+- [[Projects/Extentions/DevTools/settings-overview\|Общие настройки]]
   > Основные настройки DevTools, включая внешний вид, поведение и персонализацию.
 
-- [Предпочтения](preferences.md)
+- [[Projects/Extentions/DevTools/preferences\|Предпочтения]]
   > Детальная настройка поведения различных панелей и функций DevTools.
 
-- [Рабочая среда](workspace.md)
+- [[Projects/Extentions/DevTools/workspace\|Рабочая среда]]
   > Настройка рабочего пространства для сохранения изменений в локальных файлах.
 
-- [Ярлыки](shortcuts.md)
+- [[Projects/Extentions/DevTools/shortcuts\|Ярлыки]]
   > Настройка и персонализация сочетаний клавиш для различных действий в DevTools.
 
-- [Черный список](ignore-list.md)
+- [[Projects/Extentions/DevTools/ignore-list\|Черный список]]
   > Настройка игнорируемых файлов и папок при отладке.
 
-- [Устройства](devices.md)
+- [[Projects/Extentions/DevTools/devices\|Устройства]]
   > Управление списком эмулируемых мобильных устройств и их характеристиками.
 
-- [Локации](locations.md)
+- [[Projects/Extentions/DevTools/locations\|Локации]]
   > Настройка эмуляции геолокации для тестирования функций, зависящих от местоположения.
 
-- [Регулирование](throttling.md)
+- [[Projects/Extentions/DevTools/throttling\|Регулирование]]
   > Настройка профилей регулирования сети для эмуляции различных сетевых условий. 

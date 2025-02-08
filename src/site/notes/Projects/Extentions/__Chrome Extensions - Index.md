@@ -48,3 +48,5 @@
 
 -----
 [[Web/Isaac Wyatt, MBA\|Isaac Wyatt, MBA]]
+
+.

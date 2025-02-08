@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T18:00:22 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/webaudio?hl=ru
-author: Dale St. Marthe
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/web-audio/"}
 ---
+
 
 # WebAudio: просмотр показателей API WebAudio.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Просмотр показателей API WebAudio на панели WebAudio.
+> Просмотр показателей API WebAudio на панели WebAudio
 
 ---
 

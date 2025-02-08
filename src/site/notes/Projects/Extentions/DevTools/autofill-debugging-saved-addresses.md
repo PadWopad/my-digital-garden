@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:28 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/autofill?hl=ru
-author: Sofia Emelianova
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/autofill-debugging-saved-addresses/"}
 ---
+
 
 # Автозаполнение: проверка и отладка сохраненных адресов.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Проверяйте и отлаживайте адреса, сохраненные в Chrome, с помощью панели автозаполнения.
+> Проверяйте и отлаживайте адреса, сохраненные в Chrome, с помощью панели автозаполнения
 
 ---
 

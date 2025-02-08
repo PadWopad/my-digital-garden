@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:58:09 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/progressive-web-apps?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/pwa-debugging/"}
 ---
+
 
 # PWA: отладка прогрессивных веб-приложений  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Используйте панель приложений для проверки манифестов, сервис-воркеров и хранилища.
+> Используйте панель приложений для проверки манифестов, сервис-воркеров и хранилища
 
 ---
 

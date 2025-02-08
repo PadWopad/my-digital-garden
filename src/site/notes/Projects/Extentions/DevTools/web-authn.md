@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T18:00:28 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/webauthn?hl=ru
-author: Fawaz Mohammad
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/web-authn/"}
 ---
+
 
 # WebAuthn: эмуляция аутентификаторов  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Эмуляция аутентификаторов и отладка WebAuthn в Chrome DevTools.
+> Эмуляция аутентификаторов и отладка WebAuthn в Chrome DevTools
 
 ---
 

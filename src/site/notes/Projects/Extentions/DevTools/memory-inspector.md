@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:46 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/memory-inspector?hl=ru
-author: Jecelyn Yeen
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/memory-inspector/"}
 ---
+
 
 # Инспектор памяти: проверьте ArrayBuffer, TypedArray, DataView и Wasm Memory.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Используйте инспектор памяти для проверки ArrayBuffer, TypedArray или DataView в JavaScript, а также WebAssembly.Memory of C++ Васм-приложения.
+> Используйте инспектор памяти для проверки ArrayBuffer, TypedArray или DataView в JavaScript, а также WebAssembly.Memory of C++ Васм-приложения
 
 ---
 

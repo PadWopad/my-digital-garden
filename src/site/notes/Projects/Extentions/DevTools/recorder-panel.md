@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:21 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/recorder?hl=ru
-author: Jecelyn Yeen
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/recorder-panel/"}
 ---
+
 
 # Панель записи: запись и воспроизведение пользовательских действий.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Записывайте и воспроизводите пользовательские действия с помощью панели записи.
+> Записывайте и воспроизводите пользовательские действия с помощью панели записи
 
 ---
 

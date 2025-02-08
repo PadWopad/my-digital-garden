@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:41 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/performance-insights?hl=ru
-author: Jecelyn Yeen
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/performance-insights/"}
 ---
+
 
 # Аналитика производительности: получите рекомендации по производительности.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Получите рекомендации по производительности с помощью панели «Аналитика производительности».
+> Получите рекомендации по производительности с помощью панели «Аналитика производительности»
 
 ---
 

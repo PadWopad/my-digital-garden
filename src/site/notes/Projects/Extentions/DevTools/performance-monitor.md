@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:36 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/performance-monitor?hl=ru
-author: Jecelyn Yeen
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/performance-monitor/"}
 ---
+
 
 # Монитор производительности: просмотр показателей производительности в реальном времени.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Просматривайте показатели производительности в реальном времени с помощью монитора производительности.
+> Просматривайте показатели производительности в реальном времени с помощью монитора производительности
 
 ---
 

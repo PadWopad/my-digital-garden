@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:56:45 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/performance?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/performance-panel/"}
 ---
+
 
 # Панель производительности: анализ производительности среды выполнения.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Анализируйте производительность среды выполнения с помощью панели производительности.
+> Анализируйте производительность среды выполнения с помощью панели производительности
 
 ---
 

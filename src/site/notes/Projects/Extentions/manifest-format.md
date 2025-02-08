@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T16:42:59 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/extensions/reference/manifest?hl=ru
-author: 
+{"dg-publish":true,"permalink":"/projects/extentions/manifest-format/"}
 ---
+
 
 # Формат файла манифеста  |  Manifest  |  Chrome for Developers
 

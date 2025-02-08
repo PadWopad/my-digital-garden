@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T16:47:50 (UTC +03:00)
-tags: 
-source: https://developer.chrome.com/docs/extensions/develop/concepts/service-workers?hl=ru
-author:
+{"dg-publish":true,"permalink":"/projects/extentions/about-service-workers/"}
 ---
+
 
 # О работниках службы распространения знаний  |  Chrome Extensions  |  Chrome for Developers
 

@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-created: 2025-01-31T16:48:40 (UTC +03:00)
-tags: 
-source: https://developer.chrome.com/docs/extensions/get-started/tutorial/debug?hl=ru
-author:
+{"dg-publish":true,"permalink":"/projects/extentions/debug-extensions/"}
 ---
+
 
 # Отладка расширений  |  Chrome Extensions  |  Chrome for Developers
 

@@ -7,8 +7,8 @@
 На основе предоставленных материалов, вот основная документация, необходимая новичку для разработки расширения Chrome:
 
 1. Базовые руководства для начинающих:
-- [Make extention - 10 min](Make%20extention%20-%2010%20min.md)
-- [Как сделать расширение для Google Chrome за 5 минут](Extention%20Google%20Chrome%20in%205%20min.md)
+- [make-extension-10min](Projects/Extentions/make-extension-10min.md)
+- [Как сделать расширение для Google Chrome за 5 минут](Projects/Extentions/extention-google-chrome-5min.md)
 
 2. Основная техническая документация:
 - [Формат файла манифеста](https://developer.chrome.com/docs/extensions/reference/manifest?hl=ru) - описание обязательного файла manifest.json
@@ -16,8 +16,8 @@
 - [О работниках службы распространения знаний](https://developer.chrome.com/docs/extensions/develop/concepts/service-workers?hl=ru) - для понимания background scripts
 
 1. Руководства по разработке с ИИ:
-- [Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT](Дорабатываем%20чужие%20сайты%20Как%20написать%20расширение%20для%20Chrome%20с%20помощью%20ChatGPT%20%20Хабр.md)
-- [Как я создал и опубликовал расширение Chrome с помощью ИИ](Как%20я%20создал%20и%20опубликовал%20расширение%20Chrome%20с%20помощью%20ИИ%20-%20Сообщество%20DEV.md)
+- [Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT](Projects/Extentions/customize-sites-chatgpt.md)
+- [Как я создал и опубликовал расширение Chrome с помощью ИИ](Projects/Extentions/create-publish-extension-ai.md)
 
 2. Документация по отладке:
 - [Отладка расширений](https://developer.chrome.com/docs/extensions/get-started/tutorial/debug?hl=ru)
@@ -28,7 +28,7 @@
 - Документация по [Chrome Web Store](https://chrome.google.com/webstore/devconsole/)
 
 4. Практические примеры:
-- [Pet-проект расширения для Chrome](Pet-проект%20расширения%20для%20Chrome%20как%20я%20вырастил%20аудиторию%20на%20100_%20и%20чему%20научился%20%20Хабр.md)
+- [Pet-проект расширения для Chrome](Projects/Extentions/pet-project-chrome-extension.md)
 - Примеры интеграции с внешними сервисами
 
 5. Справочные материалы по разрешениям:

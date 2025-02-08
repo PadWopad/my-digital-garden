@@ -5,28 +5,28 @@
 # Руководство по Chrome DevTools
 
 ## Начало работы
-- Открытие DevTools [[Projects/Extentions/DevTools/open-devtools\|open-devtools.md]]
+- [[Projects/Extentions/DevTools/open-devtools\|Открытие DevTools]]
   > Различные способы запуска DevTools, включая горячие клавиши и меню Chrome. Также описывает как настроить автоматическое открытие DevTools для новых вкладок.
 
-- [Командное меню](command-menu.md)
+- [[Projects/Extentions/DevTools/command-menu\|Командное меню]]
   > Быстрый доступ к функциям DevTools через Command Menu (Cmd/Ctrl + Shift + P). Включает команды для скриншотов, отключения JavaScript и других частых операций.
 
-- [Горячие клавиши](keyboard-shortcuts.md)
+- [[Projects/Extentions/DevTools/keyboard-shortcuts\|Горячие клавиши]]
   > Полный список сочетаний клавиш для всех панелей DevTools. Включает shortcuts для Windows/Linux и Mac OS.
 
 ## Основные панели
 
 ### Элементы и стили
-- [Работа с DOM](dom-basics.md)
+- [[Projects/Extentions/DevTools/dom-basics\|Работа с DOM]]
   > Руководство по просмотру, редактированию и отладке DOM структуры страницы. Включает поиск элементов, изменение атрибутов, работу с event listeners.
 
-- [CSS редактирование](css-editing.md)
+- [[Projects/Extentions/DevTools/css-editing\|CSS редактирование]]
   > Инструменты для просмотра и редактирования CSS стилей, включая работу с Box Model, изменение цветов и значений, добавление новых правил.
 
-- [Анимации](animations-debugging-css-effects.md)
+- [[Projects/Extentions/DevTools/animations-debugging-css-effects\|Анимации]]
   > Инструменты для отладки CSS анимаций и переходов. Позволяет замедлять, воспроизводить и изменять параметры анимаций.
 
-- [CSS обзор](css-overview.md)
+- [[Projects/Extentions/DevTools/css-overview\|CSS обзор]]
   > Анализ используемых цветов, шрифтов, медиа-запросов и неиспользуемых объявлений CSS на странице.
 
 ### Отладка и производительность

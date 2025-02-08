@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/projects/extentions/dev-tools/chrome-dev-tools-index/"}
 ---
 
-# Руководство по Chrome DevTools
+# Chrome DevTools Documentation
+
+This is a placeholder for Chrome DevTools documentation index.
 
 ## Начало работы
 - [[Projects/Extentions/DevTools/open-devtools\|Открытие DevTools]]

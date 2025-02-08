@@ -6,41 +6,38 @@
 
 --- 
 
-
-
 На основе доступных материалов, вот основная документация, необходимая новичку для разработки расширения Chrome:
 
 ## 1. Базовые руководства для начинающих
--   [[Projects/Extentions/Make extention - 10 min\|Как сделать расширение для Google Chrome за 10 мин]]
-- Как сделать расширение для Google Chrome за 5 минут  [[Projects/Extentions/Extention Google Chrome in 5 min\|Extention Google Chrome in 5 min]]
+- [[make-extension-10min\|Как сделать расширение для Google Chrome за 10 мин]]
+- [[extention-google-chrome-5min\|Как сделать расширение для Google Chrome за 5 минут]]
 
 ## 2. Основная техническая документация
-- [Формат файла манифеста](https://developer.chrome.com/docs/extensions/reference/manifest?hl=ru) - описание обязательного файла manifest.json
-- [Справочник по API](https://developer.chrome.com/docs/extensions/reference/api?hl=ru) - доступные API расширений
-- [О работниках службы распространения знаний](https://developer.chrome.com/docs/extensions/develop/concepts/service-workers?hl=ru) - для понимания background scripts
+- [Формат файла манифеста](https://developer.chrome.com/docs/extensions/reference/manifest?hl=ru) 
+- [Справочник по API](https://developer.chrome.com/docs/extensions/reference/api?hl=ru)
+- [О работниках службы распространения знаний](https://developer.chrome.com/docs/extensions/develop/concepts/service-workers?hl=ru)
 
 ## 3. Руководства по разработке с ИИ
-- [Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT](Дорабатываем%20чужие%20сайты%20Как%20написать%20расширение%20для%20Chrome%20с%20помощью%20ChatGPT%20%20Хабр.md)
-- [Как я создал и опубликовал расширение Chrome с помощью ИИ](Как%20я%20создал%20и%20опубликовал%20расширение%20Chrome%20с%20помощью%20ИИ%20-%20Сообщество%20DEV.md)
+- [[Projects/Extentions/customize-sites-chatgpt\|Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT]]
+- [[create-publish-extension-ai\|Как я создал и опубликовал расширение Chrome с помощью ИИ]]
 
 ## 4. Документация по отладке
 - [Отладка расширений](https://developer.chrome.com/docs/extensions/get-started/tutorial/debug?hl=ru)
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=ru)
 
 ## 5. Руководства по публикации и продвижению
-- [Советы по SEO для интернет-магазина Chrome](Советы%20по%20SEO%20для%20интернет-магазина%20Chrome.md)
-- Документация по [Chrome Web Store](https://chrome.google.com/webstore/devconsole/)
+- [[Projects/Extentions/chrome-store-seo-tips\|Советы по SEO для интернет-магазина Chrome]]
+- [Chrome Web Store](https://chrome.google.com/webstore/devconsole/)
 
 ## 6. Практические примеры
-- [Pet-проект расширения для Chrome](Pet-проект%20расширения%20для%20Chrome%20как%20я%20вырастил%20аудиторию%20на%20100_%20и%20чему%20научился%20%20Хабр.md)
+- [[pet-project-chrome-extension\|Pet-проект расширения для Chrome]]
 - Примеры интеграции с внешними сервисами
 
 ## 7. Справочные материалы по разрешениям
-- [Разрешения](https://developer.chrome.com/docs/extensions/reference/permissions-list?hl=ru) - список доступных разрешений
+- [Разрешения](https://developer.chrome.com/docs/extensions/reference/permissions-list?hl=ru)
 - Документация по безопасности и политикам
 
 ## Рекомендуемый порядок изучения
-
 1. Начать с базовых руководств для понимания основ
 2. Изучить формат манифеста и основные API
 3. Освоить работу с сервис-воркерами

@@ -7,20 +7,19 @@
 Этот документ содержит подборку материалов по созданию, продвижению и оптимизации расширений для браузера Chrome.
 
 ## Быстрый старт
-- [Make extention - 10 min](Make%20extention%20-%2010%20min.md) - Пошаговое руководство по созданию простого расширения с примерами кода
-- [Как сделать расширение для Google Chrome за 5 минут](Extention%20Google%20Chrome%20in%205%20min.md) - Краткое руководство для начинающих
+- [[make-extension-10min\|Make extension - 10 min]] - Пошаговое руководство
+- [[extention-google-chrome-5min\|Как сделать расширение для Google Chrome за 5 минут]]
 
 ## Разработка с помощью ИИ
-- [Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT](Дорабатываем%20чужие%20сайты%20Как%20написать%20расширение%20для%20Chrome%20с%20помощью%20ChatGPT%20%20Хабр.md) - Использование ChatGPT для создания расширений
-- [Как я создал и опубликовал расширение Chrome с помощью ИИ](Как%20я%20создал%20и%20опубликовал%20расширение%20Chrome%20с%20помощью%20ИИ%20-%20Сообщество%20DEV.md) - Практический опыт разработки с помощью ИИ
+- [[Projects/Extentions/customize-sites-chatgpt\|Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT]]
+- [[create-publish-extension-ai\|Как я создал и опубликовал расширение Chrome с помощью ИИ]]
 
 ## Продвижение и SEO
-- [Советы по SEO для интернет-магазина Chrome](Советы%20по%20SEO%20для%20интернет-магазина%20Chrome.md) - Основы оптимизации расширений для Chrome Web Store
-- [Расширение Chrome SEO-оптимизация](Расширение%20Chrome%20SEO-оптимизация%20(легкие%20рейтинги)%20-%20LeadBlasta.md) - Практические советы по улучшению рейтинга
-- [Pet-проект расширения для Chrome](Pet-проект%20расширения%20для%20Chrome%20как%20я%20вырастил%20аудиторию%20на%20100_%20и%20чему%20научился%20%20Хабр.md) - История успешного продвижения расширения
+- [[Projects/Extentions/chrome-store-seo-tips\|Советы по SEO для интернет-магазина Chrome]]
+- [[pet-project-chrome-extension\|Pet-проект расширения для Chrome]]
 
 ## Практические примеры
-- [Analyze tradingview.com charts with Chrome extension](Analyze%20tradingview.com%20charts%20with%20Chrome%20extension,%20N8N%20and%20OpenAI%20%20n8n%20workflow%20template.md) - Пример интеграции с внешними сервисами и использования ИИ для анализа
+- [[analyze-tradingview-charts\|Analyze tradingview.com charts with Chrome extension]]
 
 ## Основные темы
 1. Создание базовой структуры расширения
@@ -33,9 +32,9 @@
 8. Сбор аналитики и метрик
 
 ## Полезные ресурсы
-- [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/) - Официальная документация
-- Chrome Web Store - Площадка для публикации
-- Chrome Developer Dashboard - Панель управления расширениями
+- [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/)
+- Chrome Web Store
+- Chrome Developer Dashboard
 
 ## Основные этапы разработки
 1. Планирование функционала

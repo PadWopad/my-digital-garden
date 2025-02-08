@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:56:35 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/sources?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/sources-panel/"}
 ---
+
 
 # Панель источников: отладка JavaScript  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Отлаживайте JavaScript с помощью точек останова, пошагового выполнения и просмотра значений переменных.
+> Отлаживайте JavaScript с помощью точек останова, пошагового выполнения и просмотра значений переменных
 
 ---
 

@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:26 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/quick-source?hl=ru
-author: Jecelyn Yeen
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/quick-source-panel/"}
 ---
+
 
 # Быстрая панель источников: быстрый доступ к файлам.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Быстро получайте доступ к файлам с помощью быстрой панели источников.
+> Быстро получайте доступ к файлам с помощью быстрой панели источников
 
 ---
 

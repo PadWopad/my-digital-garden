@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:56 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/network-request-blocking?hl=ru
-author: Dale St. Marthe
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/network-requests/"}
 ---
+
 
 # Сетевые запросы: проверьте свой сайт, заблокировав сетевые запросы.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Проверьте, как ваш сайт обрабатывает недостающие ресурсы.
+> Проверьте, как ваш сайт обрабатывает недостающие ресурсы
 
 ---
 

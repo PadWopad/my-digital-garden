@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:56:40 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/network/overview?hl=ru
-author: Dale St. Marthe
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/network-panel/"}
 ---
+
 
 # Панель «Сеть»: анализ сетевой нагрузки и ресурсов.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Анализируйте сетевую нагрузку и ресурсы
+> Анализируйте сетевую нагрузку и ресурсы.
 
 ---
 

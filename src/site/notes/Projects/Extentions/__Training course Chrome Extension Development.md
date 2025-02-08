@@ -73,16 +73,9 @@
 Дополнительные материалы модуля:  
 
 
-1. [[finding-free-icons\|Поиск и использование бесплатных иконок и ресурсов для расширений]]
-
-
+-   [[finding-free-icons\|Поиск и использование бесплатных иконок и ресурсов для расширений]]
 *   [[find-adapt-ext-templates\|Готовые шаблоны расширений: поиск и адаптация]]
 *   [[unpack-ext-errors-tips\|Ошибки загрузки расширений: советы новичкам]]
-
-
-
-
-
 
 
 * **2.1 Расширение за 5 минут: Меняем цвет фона страницы (No-Code + готовый скрипт).**
@@ -341,7 +334,7 @@ chrome.runtime.onInstalled.addListener(() => {
 *   [[vis-ui-builders-ext\|Визуальные No-Code UI Билдеры с экспортом для расширений]]
 *   [[ai-code-assist-js\|AI Ассистенты кодирования для JavaScript в расширениях]]
 *   [[nocode-auto-platforms-os\|No-Code Платформы автоматизации с открытым исходным кодом для рабочих процессов расширений]]
-*   [[ai-ext-idea-gen\|AI-Driven Extension Idea Generation & Feature Refinement]]
+*   [[ai-ext-idea-gen\|AI-Driven Extension Idea Generation & Feature Refinement - Использование AI для поиска идей расширений и улучшения функциональности]]   ==!!!==
 
 * **4.1 No-Code утилиты для разработки расширений**
     * **Генераторы `manifest.json`:**

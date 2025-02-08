@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/sozdayom-svoyo-rasshirenie-dlya-google-chrome-habr/","tags":["расширение для chrome","разработка расширения chrome"]}
+{"dg-publish":true,"created":"2025-01-31T16:45:24 (UTC +03:00)","tags":["расширение для chrome","разработка расширения chrome"],"source":"https://habr.com/ru/articles/198652/","author":"Неклюдов Вячеслав","permalink":"/projects/extentions/sozdayom-svoyo-rasshirenie-dlya-google-chrome-habr/","dgPassFrontmatter":true}
 ---
 
 

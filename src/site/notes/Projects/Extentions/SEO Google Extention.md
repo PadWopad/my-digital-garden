@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/seo-google-extention/"}
+{"dg-publish":true,"permalink":"/projects/extentions/seo-google-extention/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/locations/"}
+{"dg-publish":true,"created":"2025-01-31T18:01:23 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/settings/locations?hl=ru","author":"Sofia Emelianova","permalink":"/projects/extentions/dev-tools/locations/","dgPassFrontmatter":true}
 ---
 
 

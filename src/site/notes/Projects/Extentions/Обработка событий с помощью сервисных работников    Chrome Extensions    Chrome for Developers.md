@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/obrabotka-sobytij-s-pomoshhyu-servisnyh-rabotnikov-chrome-extensions-chrome-for-developers/"}
+{"dg-publish":true,"created":"2025-01-31T16:47:02 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/get-started/tutorial/service-worker-events?hl=ru","author":null,"permalink":"/projects/extentions/obrabotka-sobytij-s-pomoshhyu-servisnyh-rabotnikov-chrome-extensions-chrome-for-developers/","dgPassFrontmatter":true}
 ---
 
 

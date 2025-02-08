@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/learn-html-web-dev/"}
+{"dg-publish":true,"created":"2025-01-31T16:52:40 (UTC +03:00)","tags":null,"source":"https://web.dev/learn/html","author":null,"permalink":"/projects/extentions/learn-html-web-dev/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/memory-panel/"}
+{"dg-publish":true,"created":"2025-01-31T17:56:50 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/memory?hl=ru","author":"Dale St. Marthe","permalink":"/projects/extentions/dev-tools/memory-panel/","dgPassFrontmatter":true}
 ---
 
 

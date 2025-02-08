@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/network-conditions/"}
+{"dg-publish":true,"created":"2025-01-31T17:57:51 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/device-mode/override-user-agent?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/network-conditions/","dgPassFrontmatter":true}
 ---
 
 

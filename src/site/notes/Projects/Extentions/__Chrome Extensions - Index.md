@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/chrome-extensions-index/"}
+{"dg-publish":true,"permalink":"/projects/extentions/chrome-extensions-index/","dgPassFrontmatter":true}
 ---
 
 # Руководство по документации для разработки расширений Chrome

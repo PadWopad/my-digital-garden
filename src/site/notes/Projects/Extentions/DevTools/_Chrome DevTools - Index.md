@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/chrome-dev-tools-index/"}
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/chrome-dev-tools-index/","dgPassFrontmatter":true}
 ---
 
 # Chrome DevTools Documentation

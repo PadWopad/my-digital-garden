@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/performance-insights/"}
+{"dg-publish":true,"created":"2025-01-31T17:57:41 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/performance-insights?hl=ru","author":"Jecelyn Yeen","permalink":"/projects/extentions/dev-tools/performance-insights/","dgPassFrontmatter":true}
 ---
 
 

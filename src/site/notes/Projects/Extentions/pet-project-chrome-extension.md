@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/pet-project-chrome-extension/","tags":["dune","расширение chrome","twitter","pet-project"]}
+{"dg-publish":true,"created":"2025-01-17T15:24:46 (UTC +03:00)","tags":["dune","расширение chrome","twitter","pet-project"],"source":"https://habr.com/ru/articles/723666/","author":"root85","permalink":"/projects/extentions/pet-project-chrome-extension/","dgPassFrontmatter":true}
 ---
 
 

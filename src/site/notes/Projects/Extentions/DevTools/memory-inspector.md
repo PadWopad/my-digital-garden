@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/memory-inspector/"}
+{"dg-publish":true,"created":"2025-01-31T17:57:46 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/memory-inspector?hl=ru","author":"Jecelyn Yeen","permalink":"/projects/extentions/dev-tools/memory-inspector/","dgPassFrontmatter":true}
 ---
 
 

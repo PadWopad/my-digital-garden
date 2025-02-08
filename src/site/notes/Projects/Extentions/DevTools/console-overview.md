@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/console-overview/"}
+{"dg-publish":true,"created":"2025-01-31T17:56:30 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/console?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/console-overview/","dgPassFrontmatter":true}
 ---
 
 

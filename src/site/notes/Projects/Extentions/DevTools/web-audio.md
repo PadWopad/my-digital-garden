@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/web-audio/"}
+{"dg-publish":true,"created":"2025-01-31T18:00:22 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/webaudio?hl=ru","author":"Dale St. Marthe","permalink":"/projects/extentions/dev-tools/web-audio/","dgPassFrontmatter":true}
 ---
 
 

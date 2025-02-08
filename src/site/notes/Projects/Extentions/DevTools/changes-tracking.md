@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/changes-tracking/"}
+{"dg-publish":true,"created":"2025-01-31T17:58:10 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/changes?hl=en","author":"Sofia Emelianova","permalink":"/projects/extentions/dev-tools/changes-tracking/","dgPassFrontmatter":true}
 ---
 
 

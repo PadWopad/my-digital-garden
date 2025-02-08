@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/performance-panel/"}
+{"dg-publish":true,"created":"2025-01-31T17:56:45 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/performance?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/performance-panel/","dgPassFrontmatter":true}
 ---
 
 

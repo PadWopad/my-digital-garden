@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/chrome-side-panel-api-chrome-for-developers/"}
+{"dg-publish":true,"created":"2025-01-31T16:47:25 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/reference/api/sidePanel?hl=ru","author":null,"permalink":"/projects/extentions/chrome-side-panel-api-chrome-for-developers/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/pishem-rasshirenie-dlya-google-chrome-habr/","tags":["google chrome extensions","javascript"]}
+{"dg-publish":true,"created":"2025-01-31T16:45:29 (UTC +03:00)","tags":["google chrome extensions","javascript"],"source":"https://habr.com/ru/articles/165073/","author":"bozheville","permalink":"/projects/extentions/pishem-rasshirenie-dlya-google-chrome-habr/","dgPassFrontmatter":true}
 ---
 
 

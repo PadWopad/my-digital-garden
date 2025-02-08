@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/training-course-chrome-extension-development/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/projects/extentions/training-course-chrome-extension-development/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 

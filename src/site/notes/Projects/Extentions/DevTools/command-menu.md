@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/command-menu/"}
+{"dg-publish":true,"created":"2025-01-31T17:55:50 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/command-menu?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/command-menu/","dgPassFrontmatter":true}
 ---
 
 

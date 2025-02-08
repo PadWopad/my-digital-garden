@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/rasshirenie-chrome-seo-optimizacziya-legkie-rejtingi-lead-blasta/","tags":["chrome","extention"]}
+{"dg-publish":true,"created":"2025-01-22T17:49:32 (UTC +03:00)","tags":["chrome","extention"],"source":"https://leadblasta.com/chrome-extension-seo/","author":"Anthony Hayes","permalink":"/projects/extentions/rasshirenie-chrome-seo-optimizacziya-legkie-rejtingi-lead-blasta/","dgPassFrontmatter":true}
 ---
 
 

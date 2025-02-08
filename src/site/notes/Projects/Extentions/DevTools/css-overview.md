@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/css-overview/"}
+{"dg-publish":true,"created":"2025-01-31T17:59:56 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/css-overview?hl=ru","author":"Jecelyn Yeen","permalink":"/projects/extentions/dev-tools/css-overview/","dgPassFrontmatter":true}
 ---
 
 

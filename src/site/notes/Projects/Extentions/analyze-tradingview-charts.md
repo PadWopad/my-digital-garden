@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/analyze-tradingview-charts/"}
+{"dg-publish":true,"created":"2025-01-21T10:59:52 (UTC +03:00)","tags":[],"source":"https://n8n.io/workflows/2642-analyze-tradingviewcom-charts-with-chrome-extension-n8n-and-openai/","author":null,"permalink":"/projects/extentions/analyze-tradingview-charts/","dgPassFrontmatter":true}
 ---
 
 

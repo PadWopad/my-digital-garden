@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/upravlenie-vkladkami-chrome-extensions-chrome-for-developers/"}
+{"dg-publish":true,"created":"2025-01-31T16:46:42 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/get-started/tutorial/popup-tabs-manager?hl=ru","author":null,"permalink":"/projects/extentions/upravlenie-vkladkami-chrome-extensions-chrome-for-developers/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/throttling/"}
+{"dg-publish":true,"created":"2025-01-31T18:01:32 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/settings/throttling?hl=ru","author":"Sofia Emelianova","permalink":"/projects/extentions/dev-tools/throttling/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/web-authn/"}
+{"dg-publish":true,"created":"2025-01-31T18:00:28 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/webauthn?hl=ru","author":"Fawaz Mohammad","permalink":"/projects/extentions/dev-tools/web-authn/","dgPassFrontmatter":true}
 ---
 
 

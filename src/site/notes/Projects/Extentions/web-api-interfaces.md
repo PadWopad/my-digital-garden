@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/web-api-interfaces/"}
+{"dg-publish":true,"created":"2025-01-31T16:41:59 (UTC +03:00)","tags":[],"source":"https://developer.mozilla.org/ru/docs/Web/API","author":null,"permalink":"/projects/extentions/web-api-interfaces/","dgPassFrontmatter":true}
 ---
 
 

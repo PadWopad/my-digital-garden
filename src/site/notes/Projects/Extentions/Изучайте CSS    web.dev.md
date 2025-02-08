@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/izuchajte-css-web-dev/"}
+{"dg-publish":true,"created":"2025-01-31T16:52:32 (UTC +03:00)","tags":null,"source":"https://web.dev/learn/css?hl=ru","author":"Andy Bell","permalink":"/projects/extentions/izuchajte-css-web-dev/","dgPassFrontmatter":true}
 ---
 
 

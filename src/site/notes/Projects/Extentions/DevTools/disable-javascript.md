@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/disable-javascript/"}
+{"dg-publish":true,"created":"2025-01-31T17:56:02 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/javascript/disable?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/disable-javascript/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/debug-extensions/"}
+{"dg-publish":true,"created":"2025-01-31T16:48:40 (UTC +03:00)","tags":null,"source":"https://developer.chrome.com/docs/extensions/get-started/tutorial/debug?hl=ru","author":null,"permalink":"/projects/extentions/debug-extensions/","dgPassFrontmatter":true}
 ---
 
 

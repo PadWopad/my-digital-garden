@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/customize-sites-chatgpt/","tags":["расширение","расширение chrome","расширение для браузера","chatgpt","разработка"]}
+{"dg-publish":true,"created":"2025-01-13T16:44:47 (UTC +03:00)","tags":["расширение","расширение chrome","расширение для браузера","chatgpt","разработка"],"source":"https://habr.com/ru/articles/826306/","author":"Иван Бойцов","permalink":"/projects/extentions/customize-sites-chatgpt/","dgPassFrontmatter":true}
 ---
 
 

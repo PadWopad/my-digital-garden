@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/network-panel/"}
+{"dg-publish":true,"created":"2025-01-31T17:56:40 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/network/overview?hl=ru","author":"Dale St. Marthe","permalink":"/projects/extentions/dev-tools/network-panel/","dgPassFrontmatter":true}
 ---
 
 

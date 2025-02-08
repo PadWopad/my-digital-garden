@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/security-understanding-issues/"}
+{"dg-publish":true,"created":"2025-01-31T17:57:16 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/security?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/security-understanding-issues/","dgPassFrontmatter":true}
 ---
 
 

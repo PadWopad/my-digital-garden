@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/extention-google-chrome-5min/"}
+{"dg-publish":true,"created":"2025-01-13T16:46:46 (UTC +03:00)","tags":null,"source":"https://lifehacker.ru/kak-sdelat-rasshirenie-dlya-google-chrome-za-5-minut/","permalink":"/projects/extentions/extention-google-chrome-5min/","dgPassFrontmatter":true}
 ---
 
 

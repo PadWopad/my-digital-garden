@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/idea-table/"}
+{"dg-publish":true,"permalink":"/projects/extentions/idea-table/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/kak-sdelat-rasshirenie-dlya-google-chrome-i-nemnogo-uluchshit-ux-na-glavnoj-stranicze-pochty-razrabotka-na-vc-ru/"}
+{"dg-publish":true,"created":"2025-01-13T16:41:17 (UTC +03:00)","tags":[],"source":"https://vc.ru/dev/159897-kak-sdelat-rasshirenie-dlya-google-chrome-i-nemnogo-uluchshit-ux-na-glavnoi-stranice-pochty","author":"Sergey Kulakov","permalink":"/projects/extentions/kak-sdelat-rasshirenie-dlya-google-chrome-i-nemnogo-uluchshit-ux-na-glavnoj-stranicze-pochty-razrabotka-na-vc-ru/","dgPassFrontmatter":true}
 ---
 
 

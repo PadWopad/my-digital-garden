@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/create-chrome-extension/","tags":["google chrome extensions","javascript"]}
+{"dg-publish":true,"created":"2025-01-31T16:45:24 (UTC +03:00)","tags":["google chrome extensions","javascript"],"source":"https://habr.com/ru/articles/198652/","author":"bozheville","permalink":"/projects/extentions/create-chrome-extension/","dgPassFrontmatter":true}
 ---
 
 

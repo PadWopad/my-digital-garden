@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/extention-razrabotka-dlya-novichka-dokumentacziya/"}
+{"dg-publish":true,"permalink":"/projects/extentions/extention-razrabotka-dlya-novichka-dokumentacziya/","dgPassFrontmatter":true}
 ---
 
 

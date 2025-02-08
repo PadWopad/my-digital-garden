@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/api-reference/"}
+{"dg-publish":true,"created":"2025-01-31T16:42:46 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/reference/api?hl=ru","author":null,"permalink":"/projects/extentions/api-reference/","dgPassFrontmatter":true}
 ---
 
 

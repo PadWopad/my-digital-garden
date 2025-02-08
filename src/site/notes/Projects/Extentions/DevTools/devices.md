@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/devices/"}
+{"dg-publish":true,"created":"2025-01-31T18:01:14 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/settings/devices?hl=ru","author":"Sofia Emelianova","permalink":"/projects/extentions/dev-tools/devices/","dgPassFrontmatter":true}
 ---
 
 

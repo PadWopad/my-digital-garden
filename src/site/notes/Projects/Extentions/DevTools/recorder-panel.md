@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/recorder-panel/"}
+{"dg-publish":true,"created":"2025-01-31T17:57:21 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/recorder?hl=ru","author":"Jecelyn Yeen","permalink":"/projects/extentions/dev-tools/recorder-panel/","dgPassFrontmatter":true}
 ---
 
 

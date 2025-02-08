@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/about-service-workers/"}
+{"dg-publish":true,"created":"2025-01-31T16:47:50 (UTC +03:00)","tags":null,"source":"https://developer.chrome.com/docs/extensions/develop/concepts/service-workers?hl=ru","author":null,"permalink":"/projects/extentions/about-service-workers/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/create-publish-extension-ai/","tags":["ai","learning","promptengineering","webdev","software","coding","development","engineering","inclusive","community"]}
+{"dg-publish":true,"created":"2025-01-13T16:43:50 (UTC +03:00)","tags":["ai","learning","promptengineering","webdev","software","coding","development","engineering","inclusive","community"],"source":"https://dev.to/vijaythapa/how-i-created-published-a-chrome-extension-with-ai-46op","author":"Vijay Thapa","permalink":"/projects/extentions/create-publish-extension-ai/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/permissions/"}
+{"dg-publish":true,"created":"2025-01-31T16:43:12 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/reference/permissions-list?hl=ru","author":null,"permalink":"/projects/extentions/permissions/","dgPassFrontmatter":true}
 ---
 
 

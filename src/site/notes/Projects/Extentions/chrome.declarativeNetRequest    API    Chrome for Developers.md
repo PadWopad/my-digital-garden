@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/chrome-declarative-net-request-api-chrome-for-developers/"}
+{"dg-publish":true,"created":"2025-01-31T16:47:17 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/reference/api/declarativeNetRequest?hl=ru","author":null,"permalink":"/projects/extentions/chrome-declarative-net-request-api-chrome-for-developers/","dgPassFrontmatter":true}
 ---
 
 

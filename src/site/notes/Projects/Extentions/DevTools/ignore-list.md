@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/ignore-list/"}
+{"dg-publish":true,"created":"2025-01-31T18:01:03 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/settings/ignore-list?hl=ru","author":"Sofia Emelianova","permalink":"/projects/extentions/dev-tools/ignore-list/","dgPassFrontmatter":true}
 ---
 
 

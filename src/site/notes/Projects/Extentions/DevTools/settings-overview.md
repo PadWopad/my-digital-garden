@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/settings-overview/"}
+{"dg-publish":true,"created":"2025-01-31T17:57:11 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/settings?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/settings-overview/","dgPassFrontmatter":true}
 ---
 
 

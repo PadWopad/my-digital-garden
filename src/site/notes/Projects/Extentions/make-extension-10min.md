@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/make-extension-10min/"}
+{"dg-publish":true,"created":"2025-01-13T16:22:53 (UTC +03:00)","tags":[],"source":"https://thecode.media/extention/","author":"Михаил Полянин","share_link":"https://share.note.sx/1f28vpx7#N7eYD7A+EGhZiFZ9CygA9D258Wxg46DIeS+DaD5oLSY","share_updated":"2025-02-08T12:33:25+03:00","permalink":"/projects/extentions/make-extension-10min/","dgPassFrontmatter":true}
 ---
 
 

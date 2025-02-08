@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/chrome-extensions-development-guide/"}
+{"dg-publish":true,"permalink":"/projects/extentions/chrome-extensions-development-guide/","dgPassFrontmatter":true}
 ---
 
 # Руководство по разработке расширений Chrome

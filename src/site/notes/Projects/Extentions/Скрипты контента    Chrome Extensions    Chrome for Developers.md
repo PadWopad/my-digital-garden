@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/skripty-kontenta-chrome-extensions-chrome-for-developers/"}
+{"dg-publish":true,"created":"2025-01-31T16:47:42 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts?hl=ru","author":null,"permalink":"/projects/extentions/skripty-kontenta-chrome-extensions-chrome-for-developers/","dgPassFrontmatter":true}
 ---
 
 

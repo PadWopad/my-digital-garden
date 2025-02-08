@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/chrome-store-seo-tips/","tags":["seo","tips","chrome web store","title","description","keywords"]}
+{"dg-publish":true,"created":"2025-01-22T16:56:41 (UTC +03:00)","tags":["seo","tips","chrome web store","title","description","keywords"],"source":"https://ultrablock.org/seo-tips-for-chrome-web-store/","author":null,"permalink":"/projects/extentions/chrome-store-seo-tips/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/lighthouse/"}
+{"dg-publish":true,"created":"2025-01-31T17:58:00 (UTC +03:00)","tags":[],"source":"https://developer.chrome.com/docs/devtools/lighthouse?hl=ru","author":"Kayce Basques","permalink":"/projects/extentions/dev-tools/lighthouse/","dgPassFrontmatter":true}
 ---
 
 

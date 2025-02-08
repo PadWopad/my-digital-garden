@@ -36,6 +36,7 @@
 
 ### Модуль 1: Введение в мир расширений Chrome
 
+
 - **1.1 Что такое расширения Chrome?**
     
     - Расширения Chrome – это небольшие программы, добавляющие новые функции в браузер Google Chrome. Они позволяют настраивать браузер под свои нужды, автоматизировать задачи, улучшать продуктивность и многое другое.
@@ -68,13 +69,72 @@
 
 
 
-### Модуль 2: Быстрый старт – создаем первое расширение за 10 и 5 минут (No-Code)
+### Модуль 2: Быстрый старт – создаем первое расширение за 5 и 10 минут (No-Code)
 Дополнительные материалы модуля:  
-==1. в разработке==
-==2. в разработке==
-==3. в разработке==
 
-* **2.1 Расширение за 10 минут: "Привет, мир!"**
+
+1. [[finding-free-icons\|Поиск и использование бесплатных иконок и ресурсов для расширений]]
+
+
+*   [[find-adapt-ext-templates\|Готовые шаблоны расширений: поиск и адаптация]]
+*   [[unpack-ext-errors-tips\|Ошибки загрузки расширений: советы новичкам]]
+
+
+
+
+
+
+
+* **2.1 Расширение за 5 минут: Меняем цвет фона страницы (No-Code + готовый скрипт).**
+    * **Цель:** Создать расширение, которое при нажатии на иконку меняет цвет фона текущей веб-страницы на случайный цвет.
+    * **Шаг 1-2:** Создание папки проекта и файла `manifest.json` – аналогично расширению за 10 минут. Измените название, описание и другие поля в `manifest.json` по желанию.
+    * **Шаг 3: Файл `popup.html` (упрощенный).**
+        * Создайте `popup.html` и вставьте следующий код:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Смена фона</title>
+</head>
+<body>
+  <button id="changeColorBtn">Сменить цвет фона</button>
+  <script src="popup.js"></script>
+</body>
+</html>
+```
+
+    * **Шаг 4: Файл `popup.js` (скрипт для смены цвета).**
+        * Создайте в папке `my-first-extension` новый текстовый файл и сохраните его как `popup.js`.
+        * Скопируйте и вставьте в него следующий JavaScript код:
+
+```javascript
+document.addEventListener('DOMContentLoaded', function() {
+  const changeColorBtn = document.getElementById('changeColorBtn');
+  changeColorBtn.addEventListener('click', function() {
+    chrome.scripting.executeScript({
+      function: changeBackgroundColor
+    });
+  });
+});
+
+function changeBackgroundColor() {
+  const randomColor = '#' + Math.floor(Math.random()*16777215).toString(16);
+  document.body.style.backgroundColor = randomColor;
+}
+```
+
+    * **Разъяснение `popup.js`:**
+        * `document.addEventListener('DOMContentLoaded', ...)` – код выполняется после полной загрузки HTML-страницы `popup.html`.
+        * `document.getElementById('changeColorBtn')` – находит кнопку по ее ID.
+        * `changeColorBtn.addEventListener('click', ...)` – добавляет обработчик события клика на кнопку.
+        * `chrome.scripting.executeScript({ function: changeBackgroundColor })` – выполняет функцию `changeBackgroundColor` на текущей активной вкладке браузера.
+        * `changeBackgroundColor()` – функция, которая генерирует случайный цвет и меняет цвет фона `document.body`.
+    * **Шаг 5:** Папка `images` и иконки – как в расширении за 10 минут.
+    * **Шаг 6: Загрузка расширения в Chrome** – как в расширении за 10 минут.
+    * **Результат:** При нажатии на иконку расширения, а затем на кнопку "Сменить цвет фона" во всплывающем окне, цвет фона текущей веб-страницы будет меняться на случайный.
+
+* **2.2 Расширение за 10 минут: "Привет, мир!"**
     * **Цель:** Создать простое расширение, которое при нажатии на иконку в панели инструментов браузера показывает всплывающее окно с текстом "Привет, мир!".
     * **Шаг 1: Создание папки проекта.**
         * Создайте на рабочем столе новую папку с названием, например, `my-first-extension`.
@@ -141,54 +201,7 @@
         * Выберите папку `my-first-extension`.
     * **Результат:** В панели инструментов браузера появится иконка вашего расширения. Нажмите на нее – должно появиться всплывающее окно с текстом "Привет, мир!".
 
-* **2.2 Расширение за 5 минут: Меняем цвет фона страницы (No-Code + готовый скрипт).**
-    * **Цель:** Создать расширение, которое при нажатии на иконку меняет цвет фона текущей веб-страницы на случайный цвет.
-    * **Шаг 1-2:** Создание папки проекта и файла `manifest.json` – аналогично расширению за 10 минут. Измените название, описание и другие поля в `manifest.json` по желанию.
-    * **Шаг 3: Файл `popup.html` (упрощенный).**
-        * Создайте `popup.html` и вставьте следующий код:
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Смена фона</title>
-</head>
-<body>
-  <button id="changeColorBtn">Сменить цвет фона</button>
-  <script src="popup.js"></script>
-</body>
-</html>
-```
-
-    * **Шаг 4: Файл `popup.js` (скрипт для смены цвета).**
-        * Создайте в папке `my-first-extension` новый текстовый файл и сохраните его как `popup.js`.
-        * Скопируйте и вставьте в него следующий JavaScript код:
-
-```javascript
-document.addEventListener('DOMContentLoaded', function() {
-  const changeColorBtn = document.getElementById('changeColorBtn');
-  changeColorBtn.addEventListener('click', function() {
-    chrome.scripting.executeScript({
-      function: changeBackgroundColor
-    });
-  });
-});
-
-function changeBackgroundColor() {
-  const randomColor = '#' + Math.floor(Math.random()*16777215).toString(16);
-  document.body.style.backgroundColor = randomColor;
-}
-```
-
-    * **Разъяснение `popup.js`:**
-        * `document.addEventListener('DOMContentLoaded', ...)` – код выполняется после полной загрузки HTML-страницы `popup.html`.
-        * `document.getElementById('changeColorBtn')` – находит кнопку по ее ID.
-        * `changeColorBtn.addEventListener('click', ...)` – добавляет обработчик события клика на кнопку.
-        * `chrome.scripting.executeScript({ function: changeBackgroundColor })` – выполняет функцию `changeBackgroundColor` на текущей активной вкладке браузера.
-        * `changeBackgroundColor()` – функция, которая генерирует случайный цвет и меняет цвет фона `document.body`.
-    * **Шаг 5:** Папка `images` и иконки – как в расширении за 10 минут.
-    * **Шаг 6: Загрузка расширения в Chrome** – как в расширении за 10 минут.
-    * **Результат:** При нажатии на иконку расширения, а затем на кнопку "Сменить цвет фона" во всплывающем окне, цвет фона текущей веб-страницы будет меняться на случайный.
 
 * **2.3 Адаптация готовых шаблонов и скриптов с помощью No-Code инструментов.**
     * **Использование онлайн-генераторов `manifest.json`:** Вместо ручного написания `manifest.json` можно использовать онлайн-сервисы, которые генерируют его автоматически на основе введенных вами параметров (например, [Extensionizr](https://extensionizr.com/)).
@@ -198,9 +211,13 @@ function changeBackgroundColor() {
 
 ### Модуль 3: Структура и технические особенности расширений Chrome
 Дополнительные материалы модуля:  
-==1. в разработке==
-==2. в разработке==
-==3. в разработке==
+1. [[manifest-detail\|Подробное изучение файла manifest.json - Ключевые поля и их значение]]
+2. [[extention-action-type\|Различные типы действий расширений: action, contextMenus, commands]]
+3. [[extensions-permissions\|Разрешения расширений: Зачем они нужны и как их запрашивать]]
+4. [[debugging-with-ChromeDevTools\|Основы отладки простых расширений с помощью Chrome DevTools]]
+5. [[popup-style-nocode\|Улучшаем вид Popup без кода: HTML/CSS для начинающих]]
+6. [[popup-interact-js-snippets\|Интерактивность Popup: JS сниппеты без кода]]
+7. [[online-html-css-editor\|Визуальный редактор HTML/CSS для Popup]]
 
 * **3.1 Детальная структура расширения**
     * **Основные компоненты:**
@@ -320,9 +337,11 @@ chrome.runtime.onInstalled.addListener(() => {
 
 ### Модуль 4: No-Code инструменты и AI помощники в разработке расширений
 Дополнительные материалы модуля:  
-==1. в разработке==
-==2. в разработке==
-==3. в разработке==
+*   [[ai-manifest-gen\|AI-Powered Manifest Generation & Validation: Ускорение создания manifest.json с помощью AI]]
+*   [[vis-ui-builders-ext\|Визуальные No-Code UI Билдеры с экспортом для расширений]]
+*   [[ai-code-assist-js\|AI Ассистенты кодирования для JavaScript в расширениях]]
+*   [[nocode-auto-platforms-os\|No-Code Платформы автоматизации с открытым исходным кодом для рабочих процессов расширений]]
+*   [[ai-ext-idea-gen\|AI-Driven Extension Idea Generation & Feature Refinement]]
 
 * **4.1 No-Code утилиты для разработки расширений**
     * **Генераторы `manifest.json`:**

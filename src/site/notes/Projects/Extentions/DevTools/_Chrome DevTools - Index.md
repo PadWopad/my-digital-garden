@@ -21,7 +21,7 @@
   > Руководство по просмотру, редактированию и отладке DOM структуры страницы. Включает поиск элементов, изменение атрибутов, работу с event listeners.
 
 - [[Projects/Extentions/DevTools/css-editing\|CSS редактирование]]
-  > Инструменты для просмотра и редактирования CSS стилей, включая работу с Box Model, изменение цветов и значений, добавление новых правил .
+  > Инструменты для просмотра и редактирования CSS стилей, включая работу с Box Model, изменение цветов и значений, добавление новых правил.
 
 - [[Projects/Extentions/DevTools/animations-debugging-css-effects\|Анимации]]
   > Инструменты для отладки CSS анимаций и переходов. Позволяет замедлять, воспроизводить и изменять параметры анимаций.
@@ -29,9 +29,15 @@
 - [[Projects/Extentions/DevTools/css-overview\|CSS обзор]]
   > Анализ используемых цветов, шрифтов, медиа-запросов и неиспользуемых объявлений CSS на странице.
 
+- [[Projects/Extentions/DevTools/changes-tracking\|Изменения отслеживайте изменения HTML, CSS и JavaScript]]
+  > Отслеживание и управление изменениями в HTML, CSS и JavaScript файлах.
+
 ### Отладка и производительность
 - [[Projects/Extentions/DevTools/console-overview\|Консоль]]
   > Использование консоли для логирования, выполнения JavaScript и взаимодействия со страницей. Включает API консоли и утилиты отладки.
+
+- [[Projects/Extentions/DevTools/issues-troubleshooting\|Проблемы Найдите и устраните проблемы]]
+  > Обнаружение и исправление проблем с производительностью, доступностью и безопасностью.
 
 - [[Projects/Extentions/DevTools/sources-panel\|Источники]]
   > Отладка JavaScript с использованием брейкпоинтов, просмотр стека вызовов, работа с исходным кодом и сопоставление с source maps.
@@ -74,6 +80,9 @@
 - [[Projects/Extentions/DevTools/coverage\|Покрытие кода]]
   > Анализ неиспользуемого JavaScript и CSS кода для оптимизации размера бандла.
 
+- [[Projects/Extentions/DevTools/rendering-overview\|Обзор вкладки «Рендеринг»]]
+  > Анализ и отладка процесса рендеринга страницы.
+
 ## Дополнительные инструменты
 - [[Projects/Extentions/DevTools/lighthouse\|Lighthouse]]
   > Автоматизированный аудит производительности, доступности, PWA, SEO и лучших практик.
@@ -81,10 +90,10 @@
 - [[Projects/Extentions/DevTools/recorder-panel\|Рекордер]]
   > Запись и воспроизведение пользовательских действий для тестирования и измерения производительности.
 
-- [[Projects/Extentions/DevTools/web-audio\|WebAudio]]
+- [[Projects/Extentions/DevTools/web-audio\|WebAudio просмотр показателей API WebAudio]]
   > Просмотр и отладка Web Audio API, включая аудио контекст, частоту дискретизации и другие параметры.
 
-- [[Projects/Extentions/DevTools/web-authn\|WebAuthn]]
+- [[Projects/Extentions/DevTools/web-authn\|WebAuthn эмуляция аутентификаторов]]
   > Эмуляция аутентификаторов для тестирования WebAuthn функциональности.
 
 - [[Projects/Extentions/DevTools/autofill-debugging-saved-addresses\|Автозаполнение]]
@@ -92,6 +101,12 @@
 
 - [[Projects/Extentions/DevTools/pwa-debugging\|PWA отладка]]
   > Инструменты для отладки Service Workers, манифестов и других компонентов PWA.
+
+- [[Projects/Extentions/DevTools/sensors-device-emulation\|Датчики эмуляция датчиков устройства]]
+  > Эмуляция различных датчиков устройства для тестирования.
+
+- [[Projects/Extentions/DevTools/media-player-debugging\|Медиа просмотр и отладка информации о медиаплеерах]]
+  > Инструменты для отладки и анализа медиаплееров на странице.
 
 ## Настройки и конфигурация
 - [[Projects/Extentions/DevTools/settings-overview\|Общие настройки]]

@@ -5,7 +5,7 @@
 # Руководство по Chrome DevTools
 
 ## Начало работы
-- [Открытие DevTools](open-devtools.md)
+- Открытие DevTools [[Projects/Extentions/DevTools/open-devtools\|open-devtools.md]]
   > Различные способы запуска DevTools, включая горячие клавиши и меню Chrome. Также описывает как настроить автоматическое открытие DevTools для новых вкладок.
 
 - [Командное меню](command-menu.md)

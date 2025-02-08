@@ -112,4 +112,4 @@ _(Скидка на январь. Код - **3525C** )_
 ## Связанные статьи
 - [Дорабатываем чужие сайты: Как написать расширение для Chrome с помощью ChatGPT](Projects/Extentions/customize-sites-chatgpt.md) - Другой подход к созданию с помощью ИИ
 - [Pet-проект расширения для Chrome](Projects/Extentions/pet-project-chrome-extension.md) - Опыт создания и продвижения
-- [Советы по SEO для интернет-магазина Chrome](Советы%20по%20SEO%20для%20интернет-магазина%20Chrome.md) - Продвижение расширения
+- [chrome-store-seo-tips](chrome-store-seo-tips.md) - Продвижение расширения

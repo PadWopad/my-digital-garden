@@ -24,7 +24,7 @@
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=ru)
 
 3. Руководства по публикации и продвижению:
-- [Советы по SEO для интернет-магазина Chrome](Советы%20по%20SEO%20для%20интернет-магазина%20Chrome.md)
+- [chrome-store-seo-tips](chrome-store-seo-tips.md)
 - Документация по [Chrome Web Store](https://chrome.google.com/webstore/devconsole/)
 
 4. Практические примеры:

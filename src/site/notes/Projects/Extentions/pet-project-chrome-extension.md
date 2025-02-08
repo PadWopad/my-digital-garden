@@ -7,7 +7,7 @@
 
 ## Связанные статьи
 - [Analyze tradingview.com charts with Chrome extension](Projects/Extentions/analyze-tradingview-charts.md) - Пример интеграции расширения Chrome с внешними сервисами
-- [Советы по SEO для интернет-магазина Chrome](Советы%20по%20SEO%20для%20интернет-магазина%20Chrome.md) - Полезные советы по продвижению
+- [chrome-store-seo-tips](chrome-store-seo-tips.md) - Полезные советы по продвижению
 - [Как я создал и опубликовал расширение Chrome с помощью ИИ](Projects/Extentions/create-publish-extension-ai.md) - Опыт создания расширения с помощью ИИ
 - [Расширение Chrome SEO-оптимизация](Расширение%20Chrome%20SEO-оптимизация%20(легкие%20рейтинги)%20-%20LeadBlasta.md) - Дополнительные советы по SEO
 - [make-extension-10min](Projects/Extentions/make-extension-10min.md) - Базовое руководство по созданию расширений

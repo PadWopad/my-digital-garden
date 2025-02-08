@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/projects/extentions/uchebnyj-kurs-po-razrabotke-rasshirenij-dlya-brauzera-chrome/","tags":["gardenEntry"]}
 ---
 
+
+
+## Учебный курс "Создание расширений для Chrome без кода: от идеи до публикации"
+
 [[Projects/Extentions/__Chrome Extensions - Index\|__Chrome Extensions - Index]]
 
 [[Projects/Extentions/DevTools/_Chrome DevTools - Index\|_Chrome DevTools - Index]]
 
 Подробный учебный курс по разработке расширений для браузера Chrome, ориентированный на новичков без опыта программирования и активно использующий no-code решения и AI-инструменты.
-
-## Учебный курс "Создание расширений для Chrome без кода: от идеи до публикации"
 
 **Для кого этот курс:**
 

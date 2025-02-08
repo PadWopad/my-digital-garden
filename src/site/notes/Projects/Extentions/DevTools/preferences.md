@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:31 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/customize?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/preferences/"}
 ---
+
 
 # Настройки: настройте DevTools  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Настройте внешний вид и поведение DevTools.
+> Настройте внешний вид и поведение DevTools
 
 ---
 

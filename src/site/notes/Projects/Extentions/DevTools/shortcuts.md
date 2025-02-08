@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:06 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/shortcuts/create-edit-delete?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/shortcuts/"}
 ---
+
 
 # Ярлыки: создание, редактирование и удаление ярлыков.  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Создавайте, редактируйте и удаляйте ярлыки в Chrome DevTools.
+> Создавайте, редактируйте и удаляйте ярлыки в Chrome DevTools
 
 ---
 

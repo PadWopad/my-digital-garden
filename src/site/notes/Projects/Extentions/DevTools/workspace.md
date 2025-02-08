@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:56:55 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/workspaces?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/workspace/"}
 ---
+
 
 # Рабочие области: сохраняйте изменения после перезагрузки  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Сохраняйте изменения CSS и JavaScript после перезагрузки страницы с помощью рабочих областей.
+> Сохраняйте изменения CSS и JavaScript после перезагрузки страницы с помощью рабочих областей
 
 ---
 

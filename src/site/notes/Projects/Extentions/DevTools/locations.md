@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T18:01:23 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/settings/locations?hl=ru
-author: Sofia Emelianova
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/locations/"}
 ---
+
 
 # Локации  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Ссылка на вкладку «Местоположения».
+> Ссылка на вкладку «Местоположения»
 
 ---
 

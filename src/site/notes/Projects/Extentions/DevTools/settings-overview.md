@@ -1,15 +1,12 @@
 ---
-dg-publish: true
-created: 2025-01-31T17:57:11 (UTC +03:00)
-tags: []
-source: https://developer.chrome.com/docs/devtools/settings?hl=ru
-author: Kayce Basques
+{"dg-publish":true,"permalink":"/projects/extentions/dev-tools/settings-overview/"}
 ---
+
 
 # Обзор настроек  |  Chrome DevTools  |  Chrome for Developers
 
 > ## Excerpt
-> Настройте DevTools под свои потребности.
+> Настройте DevTools под свои потребности
 
 ---
 

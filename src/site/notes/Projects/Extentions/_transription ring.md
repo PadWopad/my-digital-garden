@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/extentions/transription-ring/","dgPassFrontmatter":true}
+{"dg-publish":true,"share_link":"https://share.note.sx/32fv2das#zO9z3oJW90+aQi/YNS+7cvlyLCgDJrvI+wKye20FZZ0","share_updated":"2025-02-11T19:12:08+03:00","permalink":"/projects/extentions/transription-ring/","dgPassFrontmatter":true}
 ---
 
 
@@ -36,10 +36,13 @@
 
 ![](/img/user/Resources/Pasted image 20250211114025.png)
 
-[Пример анализа расшифровок разговоров при помощи AI  Claude 3.5 Sonnet](https://drive.google.com/file/d/1s8RmGA9CMD4PGMUJ1fZzOyL2bcer9JaX/view?usp=sharing)
 
+##### Пример анализа расшифровок разговоров при помощи AI  Claude 3.5 Sonnet
 
-![](0210(1).mp4)
+[Смотреть видео](https://drive.google.com/file/d/1s8RmGA9CMD4PGMUJ1fZzOyL2bcer9JaX/view?usp=sharing)
+
+![](/img/user/Resources/Pasted image 20250211190846.png)
+
 
 
 Тарифы на облачную расшифровку:

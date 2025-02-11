@@ -50,4 +50,7 @@
 [[Web/Isaac Wyatt, MBA\|Isaac Wyatt, MBA]]
 
 [Notathagen](Notathagen.md)Notathagen
-.
+
+
+[_Расшифровка телефонных разговоров менеджеров 1](_Расшифровка%20телефонных%20разговоров%20менеджеров%201.md)
+

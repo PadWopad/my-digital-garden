@@ -47,7 +47,7 @@
 
 
 -----
-[[WEB/Isaac Wyatt, MBA\|Isaac Wyatt, MBA]]
+[[Web/Isaac Wyatt, MBA\|Isaac Wyatt, MBA]]
 
 [Notathagen](Notathagen.md)Notathagen
 .

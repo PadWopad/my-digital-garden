@@ -52,5 +52,5 @@
 [Notathagen](Notathagen.md)Notathagen
 
 
-[_Расшифровка телефонных разговоров менеджеров 1](_Расшифровка%20телефонных%20разговоров%20менеджеров%201.md)
+[_transription ring](_transription%20ring.md)
 
